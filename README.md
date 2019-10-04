@@ -1,8 +1,8 @@
-# SQL Refference Sheet
+# SQL Reference Sheet
 
 ## How to create a database
 
-    -Make sure you have both HomeBrew and PostGreSQL
+    -Make sure you have both HomeBrew and PostgreSQL
 
     -Install Postico
 
@@ -50,7 +50,7 @@
 ## How to add something to a table 
     -You can use the INSERT INTO (what table you are inserting into) to add somthing into your table
     -Example:
-            ````        INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY,JOIN_DATE)              VALUES (1, 'Paul', 32, 'California', 20000.00,'2001-07-13');````
+        ````        INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY,JOIN_DATE)                  VALUES (1, 'Paul', 32, 'California', 20000.00,'2001-07-13');````
 
 ## How to edit something inside of a table
     -Use the UPDATE query and the WHERE clause states the condition that you are updating.
