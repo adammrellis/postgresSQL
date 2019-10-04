@@ -33,6 +33,9 @@
     -Look into this Documentation if you have any questions
 
 ## How to get everything from a single table
+    -Using the SELECT query followed by a * FROM (table name) would get all of hte information from said table
+    -Example:
+        ````            SELECT * FROM table_name; ````
 
 ## How to get one thing from a table using a "WHERE" clause
     -Using the WHERE clause helps state the condition you are updating/deleting/adding to/or getting exlusively
@@ -55,4 +58,3 @@
 
 ## How to remove something from a table
     -Use the DELETE query, if you want to be specific on what you are deleting, use the WHERE clause again to specifically state what you are deleting. 
-
