@@ -16,7 +16,7 @@
 
     -Look into the documentation here if there are any questions
 
-     https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb
+        https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb
 
 ## How to create a table
     
@@ -31,6 +31,9 @@
                 ); ````
     -This would create a table called COMPANY
     -Look into this Documentation if you have any questions
+
+        https://www.tutorialspoint.com/postgresql/index.htm
+
 
 ## How to get everything from a single table
     -Using the SELECT query followed by a * FROM (table name) would get all of hte information from said table
